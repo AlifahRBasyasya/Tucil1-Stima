@@ -14,4 +14,4 @@ atau
 Pastikan file txt ada dalam folder test
 
 # Author
-Alifah Rahmatika Basyasya
+Alifah Rahmatika Basyasya 13519053
