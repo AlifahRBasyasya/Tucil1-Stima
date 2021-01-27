@@ -8,3 +8,5 @@ Merupakan Tugas Kecil 1 yang dibuat menggunakan bahasa pemrograman python dan al
 atau
 1. Menggunakan ubuntu, masuk ke directory src
 2. Ketikkan python3 Tucil1_Cryptarithmetic.py
+
+Pastikan file txt ada dalam folder test
